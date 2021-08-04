@@ -3,7 +3,7 @@ Building a neural network that predicts that can geotag an outdoor image and how
 
 
 
-Pls checkout the [medium article](https://medium.com/@noufalsamsudin/portfolio-optimization-using-reinforcement-learning-1b5eba5db072) for a quick overview.
+Pls checkout the [medium article](https://medium.com/@noufalsamsudin/photo-geolocation-with-neural-networks-how-to-and-how-not-to-8aa7f10abb34) for a quick overview.
 
 
 To train model:
